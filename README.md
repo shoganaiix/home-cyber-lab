@@ -1,4 +1,4 @@
-# 🧪 Home Cybersecurity Lab – Kali + Vulnerable Ubuntu VM
+# Home Cybersecurity Lab – Kali + Vulnerable Ubuntu VM
 
 Welcome to my home lab — a virtual environment built to simulate real-world cybersecurity scenarios using **Kali Linux** as the attacker machine and a misconfigured **Ubuntu VM** as the target. This project demonstrates vulnerability exploitation, monitoring, and detection using tools like **Hydra**, and **Splunk**.
 
